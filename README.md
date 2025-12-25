@@ -1,9 +1,7 @@
 # **Nano-PRO**
 
 ## 🔧 Навыки
-- **C++** ![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=c%2B%2B&logoColor=white)
-- **Python** ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-- **Unreal Engine** ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-blue?logo=unrealengine&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) [![CPP](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![Arch](https://skillicons.dev/icons?i=arch)](https://skillicons.dev) [![Debian](https://skillicons.dev/icons?i=debian)](https://skillicons.dev) [![Raspberrypi](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev) [![VUE](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
 ## ✨ Проекты
 
@@ -11,6 +9,3 @@
 
 ## 📈 Статистика
 ![Статистика](https://github-readme-stats.vercel.app/api?username=Niko-PRO&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-
-
